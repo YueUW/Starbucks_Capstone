@@ -13,10 +13,13 @@ Installing:
 Download the data.zip and upzip it. Download the ipython notebook file. Make sure the notebook is in the same directory with the 'data' folder. 'data' folder should contains profile.json, portfolio.json and transcript.json
 
 Author:
+
 Yue Zhuo from Unversity of Waterloo
 
 Acknowledgement:
+
 Many thanks to Udacity Data Scientist Nanodegree to provide such a great project
 
 Blog Post:
+
 https://medium.com/@zy83619/data-science-starbucks-capstone-challenge-7d501be02ad4
